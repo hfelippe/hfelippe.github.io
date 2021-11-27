@@ -1,0 +1,29 @@
+/* Profile */
+.profile {
+    border-style: solid;
+    border-color: #fff;//$light-gray; // color around the photo. light-gray is defined in variables.scss
+    margin-left: 1rem; // moves to the right...
+    margin-right: 1rem; // moves to the left
+    margin-bottom: 0.25rem; // distance from below -- use it to gauge the distance between picture and name
+    border-radius: 6px; // ??
+    border-radius: 15%;//50px; // changes to a rectangular in the limit --> 0
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+// adjust tile sizes on smaller screens
+@include media-query($on-phone) {
+  @media screen and (max-width: $on-phone){
+
+    .profile {
+      width: 40%;
+    }
+
+  }
+}

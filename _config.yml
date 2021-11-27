@@ -1,0 +1,67 @@
+### your site title here
+
+title: Helcio Felippe
+description: #Physics & complexity 
+
+baseurl: #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
+email: h.felippe@fisica.ufrn.br
+
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+#facebook: "#"
+#twitter: "juniorfelippe"
+#linkedin: "#"
+#github: "hfelippe"
+#researchgate: "Helcio-Felippe"
+orcid: "0000-0002-4204-0794"
+scholar: "citations?user=IUA86tAAAAAJ&hl=en"
+
+highlighter: rouge
+markdown: kramdown
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
+  - jekyll-pdf-embed
