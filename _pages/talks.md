@@ -15,7 +15,9 @@ Download the PDF slides <a href="{{site.baseurl}}/files/hfelippe-enfe21.pdf">her
 
 Watch the presentation below.
 
+<p align=center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aWxzzoNvjeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <b>XLVIII Paulo Leal Ferreira Congress of Physics, October 2020</b><br>
 <i>Complex network approach to the neuroscience of psychedelic phenomena</i>.
@@ -43,4 +45,6 @@ Download the PDF slides (in Portuguese)
 
 Watch the presentation below (in Portuguese).
 
+<p align=center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvtJUgXdUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

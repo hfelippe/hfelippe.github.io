@@ -19,15 +19,15 @@ published: true
 <h3>Hi, I’m Helcio!</h3>
 
 I hold an M.S. in Physics from the Federal University of Rio Grande do Norte
-([UFRN](https://ufrn.br/en)) where I worked with applications of statistical
+([UFRN](https://ufrn.br/en)), where I worked with applications of statistical
 physics to the neuroscience of psychedelic-induced altered brain states. Prior
 to that, I researched the logical foundations of quantum mechanics at the 
-Federal University of Santa Catarina ([UFSC](https://en.ufsc.br/)) from where
+Federal University of Santa Catarina ([UFSC](https://en.ufsc.br/)), from where
 I graduated with a B.S. in Physics.
 
 My main interest is using well-established physical theories to uncover the
 mechanisms underlying complex systems’ behavior. I am particularly interested
-in developing computational and mathematical methods to model the scaling of 
+in developing computational and mathematical tools to model the scaling of 
 markets, the self-organization of biosystems, and the emergence of cognition.
 
 <h3>Contact</h3>
