@@ -27,8 +27,9 @@ I graduated with a B.S. in Physics.
 
 My main interest is using well-established physical theories to uncover the
 mechanisms underlying complex systems’ behavior. I am particularly interested
-in developing computational and mathematical tools to model the scaling of 
-markets, the self-organization of biosystems, and the emergence of cognition.
+in developing computational and mathematical tools to model scaling laws in
+networked systems, self-organized criticality in biological processes, and the
+emergence of cognition in the human brain.
 
 <h3>Contact</h3>
 I can be reached by email at <b>h.felippe at fisica.ufrn.br</b>.
