@@ -37,6 +37,7 @@ Download the PDF slides <a href="{{site.baseurl}}/files/hfelippe-viworkshop.pdf"
 <i>Complex network approach to the neuroscience of psychedelic phenomena</i>.
 Download the poster PDF <a href="{{site.baseurl}}/files/hfelippe-5thsymposium.pdf">here</a>.
 
+<!--
 <h1>Master’s defense, July 2021</h1>
 <i>Matrizes de Pearson como operadores densidade: um teste da hipótese
 do cérebro entrópico usando a entropia de von Neumann</i>.
@@ -48,3 +49,4 @@ Watch the presentation below (in Portuguese).
 <p align=center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvtJUgXdUTo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+-->
